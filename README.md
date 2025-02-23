@@ -1,5 +1,7 @@
 ## Hi there 👋
 ![André Teixeira Github Stats](https://github-readme-stats.vercel.app/api?username=andre-rebelo-teixeira&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-rebelo-teixeira&hide_progress=true)
 <!--
 **andre-rebelo-teixeira/andre-rebelo-teixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
