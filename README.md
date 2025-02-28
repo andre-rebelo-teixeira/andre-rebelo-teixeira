@@ -43,7 +43,7 @@
 
 ### 💼 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-teixeira-935375202/)
 
 ![Gif](https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif)
 
