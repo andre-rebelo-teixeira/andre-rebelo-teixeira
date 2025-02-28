@@ -1,4 +1,4 @@
-### Hi there! I'm Andre Teixeira 👋
+### Hi there! I'm Andre Rebelo Teixeira 👋
 
 🚀 **Currently pursuing my Master's in Electrical and Computer Engineering** at [IST Lisbon](https://tecnico.ulisboa.pt/)
 
@@ -10,19 +10,19 @@
 
 ---
 
-### 🛠️ Technologies & Languages
+### 🛠️ Technologies & Skills
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+#### 💻 Programming Languages
 
+![Languages](https://skillicons.dev/icons?i=cpp,c,python,matlab,rust,java&perline=3)
 
-![andre-rebelo-teixeira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-rebelo-teixeira&theme=radical&show_icons=true&hide_border=true&layout=compact)
+#### 📚 Frameworks & Libraries
+
+![Languages](https://skillicons.dev/icons?i=ros,qt)
+
+#### 🛠️ Tools
+
+![Languages](https://skillicons.dev/icons?i=git,github,markdown,linux,docker,cmake&perline=3)
 
 ---
 
@@ -32,7 +32,9 @@
 
 ---
 
-
+<!--
+![andre-rebelo-teixeira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-rebelo-teixeira&theme=radical&show_icons=true&hide_border=true&layout=compact)
+-->
 ### 📊 GitHub Streak
 
 ![andre-rebelo-teixeira's Streak](https://github-readme-streak-stats.herokuapp.com/?user=andre-rebelo-teixeira&theme=radical&hide_border=true&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Sat&card_width=500)
