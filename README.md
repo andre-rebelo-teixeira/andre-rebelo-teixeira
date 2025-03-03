@@ -7,7 +7,6 @@
 🏎️ **Former member of [FST Lisboa](https://www.fstlisboa.com/) - Electronics & Software Department**
 
 ![andre-rebelo-teixeira's Stats](https://github-readme-stats.vercel.app/api?username=andre-rebelo-teixeira&theme=radical&show_icons=true&hide_border=true&count_private=true)
-
 ---
 
 ### 🛠️ Technologies & Skills
