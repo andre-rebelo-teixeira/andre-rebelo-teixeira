@@ -21,7 +21,7 @@
 
 #### 🛠️ Tools
 
-![Languages](https://skillicons.dev/icons?i=git,github,markdown,linux,docker,cmake&perline=3)
+![Languages](https://skillicons.dev/icons?i=linux,docker,git,cmake,latex,markdown,github&perline=3)
 
 ---
 
