@@ -35,7 +35,7 @@
 ![andre-rebelo-teixeira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-rebelo-teixeira&theme=radical&show_icons=true&hide_border=true&layout=compact)
 -->
 ### 📊 GitHub Streak
-![andre-rebelo-teixeira's Streak](https://github-readme-streak-stats.herokuapp.com/?user=andre-rebelo-teixeira&theme=radical&hide_border=true&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Sat&card_width=500)
+[![GitHub Streak](https://github-readme-streak-stats-ivory-omega.vercel.app?user=andre-rebelo-teixeira&theme=radical&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
