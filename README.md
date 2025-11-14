@@ -1,10 +1,16 @@
-### Hi there! I'm Andre Rebelo Teixeira 👋
+### Hi there! I'm Andre Teixeira 👋
 
-🚀 **Currently pursuing my Master's in Electrical and Computer Engineering** at [IST Lisbon](https://tecnico.ulisboa.pt/)
+**Data Scientist at [Grupo Visabeira](https://grupovisabeira.com/pt/home)**
 
-🔬 **Researcher at [ISR - Institute for Systems and Robotics](https://isr.tecnico.ulisboa.pt/)**
+**Currently pursuing a Master's in Electrical and Computer Engineering** at [IST Lisbon](https://tecnico.ulisboa.pt/),  
+with a specialization in Control, Robotics, and Artificial Intelligence.  
+Thesis: *Trajectory Generation and Optimization for Free-Flying Robots in a Microgravity Environment*
 
-🏎️ **Former member of [FST Lisboa](https://www.fstlisboa.com/) - Electronics & Software Department**
+**Former Researcher at the [ISR – Institute for Systems and Robotics](https://isr.tecnico.ulisboa.pt/)**  
+![Space Cobot](Cobot.jpg)
+
+**Former Member of [FST Lisboa](https://www.fstlisboa.com/)** – Electronics & Software Department  
+![FST](FST.png)
 
 ![andre-rebelo-teixeira's Stats](https://github-readme-stats.vercel.app/api?username=andre-rebelo-teixeira&theme=radical&show_icons=true&hide_border=true&count_private=true)
 ---
